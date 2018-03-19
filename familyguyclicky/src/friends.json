@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://static.comicvine.com/uploads/square_medium/11/111746/4953508-stewie_griffin.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://static.comicvine.com/uploads/square_medium/11/111746/4953440-fguy_peter_gen2012_r3flat.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://static.comicvine.com/uploads/square_medium/11/111746/4953505-lois_griffin.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://static.comicvine.com/uploads/square_medium/11/111746/4953501-brian_griffin.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://static.comicvine.com/uploads/square_medium/11/111746/4953514-fguy_meg_gen2012_r3flat.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://static.comicvine.com/uploads/square_medium/0/9804/309374-163722-chris-griffin.gif",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://static.comicvine.com/uploads/square_medium/0/3133/119587-68695-glenn-quagmire.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://static.comicvine.com/uploads/square_medium/11/111746/4953488-190px-joe_swanson.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://static.comicvine.com/uploads/square_medium/6/67602/2199841-0533d3ddc8.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://static.comicvine.com/uploads/square_medium/11113/111131954/3730343-capture.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://i.ytimg.com/vi/y41vObbUf9k/maxresdefault.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://vignette.wikia.nocookie.net/family-guy-the-quest-for-stuff/images/b/bd/Character-tricia-takanawa-facespace.png/revision/latest?cb=20140523115810",
+    "clicked": false
+  }
+]
