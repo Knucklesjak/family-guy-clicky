@@ -5,7 +5,7 @@ const Column = props => {
 		return (
 			<div className={size}>
 			{props.children}
-		</div>)
+		</div>
 	);
 };
 

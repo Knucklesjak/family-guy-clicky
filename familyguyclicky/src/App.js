@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import FriencCard from "./components/FriencCard";
+import FriencCard from "./components/FriendCard";
 import NavBar from "./components/NavBar";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
@@ -56,7 +56,7 @@ class App extends Component {
     this.setState({
       currentScore: 0,
       topScore: this.state.topScore,
-      rightWrong: "Glaven!",
+      rightWrong: "Try Again!",
       clicked: []
     });
     this.handleShuffle();
